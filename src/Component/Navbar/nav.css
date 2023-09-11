@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width:100%;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-photo/medium-shot-young-people-dancing-party_23-2150378047.jpg?size=626&ext=jpg&ga=GA1.1.745259353.1686234270&semt=sph");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    width:90%;
+    align-items: center;
+    margin:0 auto;
+    background-color:#FF2171;
+}
+#menu{
+    display:flex;
+}
+#menu ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 950px;
+    height: 20px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+#menu ul a{
+        text-decoration: none;
+        color: white;
+}
+#logo{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    color: white;
+
+}

@@ -1,0 +1,13 @@
+.btn{
+    margin-top: 10px;
+    display: flex;
+    width: 400px;
+    /* padding: 10px; */
+}
+.detail{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.img{
+    margin-top: 20px;
+}

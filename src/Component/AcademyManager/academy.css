@@ -1,0 +1,15 @@
+.academy ul a{
+    text-decoration: none;
+    color: black;
+}
+.academy ul{
+    padding-top: 20px ;
+    padding-left: 10px;
+    list-style: none;
+    background-color: white;
+    width: 120%;
+    height: 700px;
+}
+
+
+
