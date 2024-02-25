@@ -74,7 +74,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # OutPut
 
 ![1](https://github.com/tophankumarray/dance_school/assets/93485734/b4d832da-b795-475c-b843-c2480aae5d2e)
+
 ![2](https://github.com/tophankumarray/dance_school/assets/93485734/ee01d524-c146-4baf-8df7-9a8052b48cd4)
+
 ![3](https://github.com/tophankumarray/dance_school/assets/93485734/92262358-433f-4d67-92e9-5def09570c08)
+
 ![4](https://github.com/tophankumarray/dance_school/assets/93485734/0ed857b1-1d60-4024-96a0-1c9df1c023bc)
 
